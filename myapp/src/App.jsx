@@ -1,7 +1,7 @@
 import React from "react";
-import Header from "./components/Header"; /* folder/files */
+import Header from "./components/Header"; //importing folders/files
 import Footer from "./components/Footer";
-import './App.css'; /*styles*/
+import './App.css'; // CSS properties file
 
 function App() {
   return(
